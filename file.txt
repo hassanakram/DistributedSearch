@@ -1,0 +1,280 @@
+"PATENT","LASTNAM","FIRSTNAM","MIDNAM","MODIFNAM","STREET","CITY","POSTATE","COUNTRY","ZIP","INVSEQ"
+3858241,"Durand","Philip","E.","","","Hudson","MA","US","",1
+3858241,"Norris","Lonnie","H.","","","Milford","MA","US","",2
+3858242,"Gooding","Elwyn","R.","","120 Darwin Rd.","Pinckney","MI","US","48169",1
+3858243,"Pierron","Claude","Raymond","","","Epinal","","FR","",1
+3858243,"Jenny","Jean","Paul","","","Decines","","FR","",2
+3858243,"Zuccaro","Robert","","","","Epinal","","FR","",3
+3858244,"Mann","Richard","L.","","P.O. Box 69","Woodstock","CT","US","06281",1
+3858245,"Nate","Michael","A.","II","","New York","NY","US","",1
+3858245,"Mann","Maurice","A.","","","New York","NY","US","",2
+3858246,"Milo","Simcha","","","1500 E. Riverside, Apt. 204 D","Austin","TX","US","78741",1
+3858247,"Bauman","Jack","","","P.O. Box 25310","Los Angeles","CA","US","90025",1
+3858248,"Crowe","Sylvester","L.","","501 W. Madison St.","Franklin","IN","US","46131",1
+3858249,"Howard","Durrell","Unger","","306 Krameria Dr.","San Antonio","TX","US","78213",1
+3858250,"Coglitore","Anthony","","","52 Copley St.","Staten Island","NY","US","10314",1
+3858251,"Vollrath","Walter","J.","","","Sheboygan","WI","US","",1
+3858251,"Vollrath","Richard","J.","","","Sheboygan","WI","US","",2
+3858251,"Virnoche","Paul","R.","","","Newton","WI","US","",3
+3858251,"Turk","Joseph","","","","Sheboygan","WI","US","",4
+3858251,"Gerdes","Paul","E.","","","Sheboygan","WI","US","",5
+3858251,"Singer","Roy","W.","","","Sheboygan","WI","US","",6
+3858252,"Ejchorszt","Olgierd","Z.","","5580 Vesuvian Walk","Long Beach","CA","US","",1
+3858253,"Lauzon","Adrian","A.","","5211 Cartier St., Apt. 1","Montreal, Quebec","","CA","",1
+3858254,"Coomes","Edmund","S.","","Rt. 1, Box 78F","Biggs","CA","US","95917",1
+3858255,"Purves","George","T.","Jr.","5337 Shorewood Dr.","Indianapolis","IN","US","46220",1
+3858256,"Beer","Andrew","E.","","25 Sutton Pl.","New York","NY","US","10022",1
+3858257,"Young","Samuel","","","14 Crest Rd.","Danbury","CT","US","06810",1
+3858258,"Stevens","Peter","S.","","708 Strand","Manhattan Beach","CA","US","90266",1
+3858259,"Renfrew","Edgar","Earl","","","Lock Haven","PA","US","",1
+3858259,"Genta","Guido","Ruggiero","","","Snyder","NY","US","",2
+3858260,"Hanser","Paul","Edmond","","2329 33RD St.","Moline","IL","US","61265",1
+3858261,"Uozumi","Iwao","","","17-11, 7-CHOME","Ebara, Shinagawa-ku,","","JP","",1
+3858262,"Duffy","Richard","J.","","","Salem","MA","US","",1
+3858263,"Smirnov","Mikhail","Dmitrievi","","Moskovsky prospekt, 175, kv. 7","Leningrad","","SU","",1
+3858263,"Sergeev","Ivan","Demyanovi","","ULITSA Zamshina, 27, korpus 4,","Leningrad","","SU","",2
+3858263,"Brod","Ilya","Iosifovic","","PROSPEKT Kosmonavtov, 52, korp","Leningrad","","SU","",3
+3858263,"Kharman","Mikhail","Nikolaevi","","PROSPEKT Mechnikova, 14, kv. 7","Leningrad","","SU","",4
+3858263,"Puzynya","Leonid","Vasilievi","","PROSPEKT Engelsa, 22, kv. 5","Leningrad","","SU","",5
+3858263,"Veinberg","Ikhil","Abramovic","","Ligovsky prospekt, 31, kv. 5","Leningrad","","SU","",6
+3858263,"Zakharova","Ekaterina","Georgievn","","Kuznetsovskaya ulitsa, 30, kv.","Leningrad","","SU","",7
+3858263,"Lapshin","Vladimir","Pavlovich","","Profsojuznaya ulitsa, 32, kv.","Moscow","","SU","",8
+3858263,"Kitaeva","Valentina","Vasilievn","","ULITSA Vavilova, 56, korpus 2,","Moscow","","SU","",9
+3858263,"Petrov","Leonid","Alexandro","","PROSPEKT Slavy 35, korpus 1, k","Leningrad","","SU","",10
+3858263,"Kukushkin","Vladimir","Maximovic","","PROSPEKT Slavy, 35, korpus 1,","Leningrad","","SU","",11
+3858263,"Stukalov","Vladimir","Nikolaevi","","ULITSA III Internatsionala, 13","Leningrad","","SU","",12
+3858263,"Smirnov","Pavel","Mikhailov","","PROSPEKT Bolshevikov, 25, kv.","Leningrad","","SU","",13
+3858263,"Novokreschenov","Viktor","Timofeevi","","Nagormaya ulitsa, 24","Leningradskaya oblas","","SU","",14
+3858263,"Shushkevich","Eduard","Nikolaevi","","Grazhdansky prospekt, 89, korp","Leningrad","","SU","",15
+3858263,"Atkarsky","Anatoly","Alexandro","","Derbenevskaya Naberezhnaya 13/","Moscow","","SU","",16
+3858263,"Okun","Boris","Davydovic","","Kozhevnikovskaya ulitsa, 9, kv","Moscow","","SU","",17
+3858263,"Karasik","Vladimir","Zakharovi","","ULITSA Vysokaya, 4, kv. 27","Moscow","","SU","",18
+3858263,"Khodosova","Vera","Nikolaevn","","ULITSA Obukha, 18, kv. 22","Moscow","","SU","",19
+3858264,"Kuhns","Robert","C.","","","Elm Grove","WI","US","",1
+3858264,"Metro","Robert","D.","","","Brookfield","WI","US","",2
+3858265,"Schlick","Rolland","L.","","75 Palm St.","Attleboro","MA","US","02703",1
+3858266,"Thomas","Paul","P.","","","Bryan","OH","US","",1
+3858267,"Swannie","Arthur","","","241 Roslyn St.","Buffalo","NY","US","14215",1
+3858268,"Pollak","Joseph","J.","","132 Glen Ave.","Scotia","NY","US","12302",1
+3858269,"Sutton","Lawrence","R.","","","Detroit","MI","US","",1
+3858269,"Ranno","Carl","P.","","","Grosse Pointe Park","MI","US","",2
+3858269,"Hewson","Kenneth","E.","","","Farmington","MI","US","",3
+3858270,"Crowe","William","P.","","","Louisville","KY","US","",1
+3858271,"Howard","Bernard","Peter","","19 Church St.","Warwick, Warwickshir","","GB","",1
+3858271,"Carter","Ronald","David","","19 Church St.","Warwick, Warwickshir","","GB","",2
+3858272,"Bard","Douglas","C.","","","Muskegon","MI","US","",1
+3858272,"Bard","Elmer","H.","","","Muskegon","MI","US","",2
+3858273,"Goldstein","Herman","B.","","","Cranston","RI","US","",1
+3858273,"Ouderkirk","John","T.","","","Westerly","RI","US","",2
+3858274,"Burton","John","C.","","","Seville","OH","US","",1
+3858274,"Hayton","Eugene","P.","","","Medina","OH","US","",2
+3858275,"Thomas","Mickey","A.","","","Duncan","OK","US","",1
+3858276,"Hollingsworth","John","D.","","P.O. Box 516","Greenville","SC","US","",1
+3858277,"Brown","Roger","S.","","","New Orleans","LA","US","",1
+3858277,"Rhodes","Philip","L.","","","Chalmette","LA","US","",2
+3858278,"Schmitt","Ludwig","","","","Manching","","DE","",1
+3858278,"Kipping","Joachim","","","","Ingolstadt","","DE","",2
+3858279,"Brattstrom","Lars","Erik","","","Lund","","SE","",1
+3858280,"Martens","Martin","A.","","","Peabody","MA","US","",1
+3858281,"Larson","Carl","T.","","P.O. Box 54","Richmond","CA","US","",1
+3858282,"Plummer","Walter","A.","","3546 Crownridge Dr.","Sherman Oaks","CA","US","",1
+3858283,"Runnels","George","W.","","","Meadville","PA","US","",1
+3858284,"Costa","Michael","J.","","","Poughkeepsie","NY","US","",1
+3858284,"Greeson","James","C.","Jr.","","Woodstock","NY","US","",2
+3858284,"Haberland","Peter","H.","","","Woodstock","NY","US","",3
+3858285,"Williams","Colin","","","","Biggleswade","","GB","",1
+3858286,"Nohejl","Antonin","","","","Surbiton","","GB","",1
+3858287,"Christoffersen","Albert","B.","","H.J. Holstvej 26","2610 Rodovre","","DK","",1
+3858288,"Ladin","Eli","M.","","","Ann Arbor","MI","US","",1
+3858288,"Green","Paul","D.","","","Shelbyville","IN","US","",2
+3858289,"Westervelt","James","T.","","","Rochester","MI","US","",1
+3858289,"Swis","Philip","E.","","","Mt. Clemens","MI","US","",2
+3858289,"Brown","Glenn","M.","","","Royal Oak","MI","US","",3
+3858290,"Albani","Peter","E.","","","Hamden","CT","US","",1
+3858291,"Perpall","Robert","C.","","","Palos Verdes Peninsu","CA","US","",1
+3858292,"Gudmestad","Ragnar","","","","West Allis","WI","US","",1
+3858293,"Weston","David","Frederick","","","Runcorn","","GB","",1
+3858294,"Burkin","Jury","Alexandro","","Tsvetnoi proezd 29, kv. 24","Novosibirsk","","SU","",1
+3858294,"Seleznev","Jury","Emelyanov","","Vesenny proezd 4a, kv. 16","Novosibirsk","","SU","",2
+3858295,"Allen","Edward","L.","","","Athens","PA","US","",1
+3858296,"Gage","John","C.","","","Mt. Sterling","KY","US","",1
+3858297,"Scholin","Harold","W.","","37 Plymouth Ct.","Park Ridge","IL","US","",1
+3858297,"Lisiecki","Hieronim","L.","","37 Plymouth Ct.","Chicago","IL","US","",2
+3858297,"Butkus","George","W.","","37 Plymouth Ct.","Tinley Park","IL","US","",3
+3858297,"Eitzinger","Robert","","","37 Plymouth Ct.","Deerfield","IL","US","",4
+3858298,"Whitledge","Jon","K.","","","Mantua","OH","US","",1
+3858298,"Kavick","Edward","M.","","","Chardon","OH","US","",2
+3858299,"Woods","Harold","T.","","","Livonia","MI","US","",1
+3858300,"Borel","Henry","B.","","210 Burr St.","Houston","TX","US","77011",1
+3858301,"Tesone","Abelardo","A.","","60-11 Broadway","Woodside","NY","US","11377",1
+3858302,"Abarotin","Eugene","V.","","","Franklin Township, W","PA","US","",1
+3858303,"Horbury","Eric","Anthony","","","Quorn","","GB","",1
+3858303,"Evetts","David","Ronald","","","Nottingham","","GB","",2
+3858304,"Leedy","Hayden","M.","","","Thousand Oaks","CA","US","",1
+3858304,"McCray","Loren","G.","Jr.","","Thousand Oaks","CA","US","",2
+3858304,"Stover","Harry","L.","","","Newberry Park","CA","US","",3
+3858305,"Schenkel","Gerrit","","","","Emmasingel, Eindhove","","NL","",1
+3858306,"Kloek","Arvid","E.","","","Minneapolis","MN","US","",1
+3858306,"Scott","Myrsyl","Walter","","","Minnetonka","MN","US","",2
+3858307,"Yoshimura","Hisashi","","","","Minoo","","JP","",1
+3858307,"Atoji","Nobuhisa","","","","Shijonawate","","JP","",2
+3858308,"Peterson","A.","Duane","","","Bainbridge","NY","US","",1
+3858309,"Ishikawa","Kazuo","","","","Yokohama","","JP","",1
+3858310,"Seleznev","Jury","Emelyanov","","Vesenny proezd, 4a, kv. 16","Novosibirsk","","SU","",1
+3858310,"Burkin","Jury","Alexandro","","Tsvetnoi proezd, 29, kv. 24","Novosibirsk","","SU","",2
+3858310,"Kuzmin","Sergei","Vladimiro","","ULITSA Akademicheskaya, 19, kv","Novosibirsk","","SU","",3
+3858311,"Klappert","Willi","","","","Hickory","NC","US","",1
+3858312,"Gharaibeh","Hashem","M.","","","Palatine","IL","US","",1
+3858313,"Yamaguchi","Tokio","","","","Aichi-ken","","JP","",1
+3858314,"Brenneman","J.","Edward","","","Lancaster","PA","US","",1
+3858314,"Waters","Robert","S.","","","Lancaster","PA","US","",2
+3858315,"Ferraro","Frank","A.","","","Trumbull","CT","US","",1
+3858316,"Tietjens","Eduard","Willem","","Oliemolenstraat","Drachten","","NL","",1
+3858317,"Ford","Clancy","B.","","6651 18th Ave.","Sacramento","CA","US","95820",1
+3858317,"Ford","Charles","E.","","16901 Schoolcraft St.","Van Nuys","CA","US","91406",2
+3858318,"Muto","Kiyoshi","","","","Tokyo","","JP","",1
+3858318,"Yamamoto","Yasuhisa","","","","Kyoto","","JP","",2
+3858318,"Toyoda","Yoshinori","","","","Chiba","","JP","",3
+3858318,"Azemi","Shozo","","","","Chiba","","JP","",4
+3858318,"Okano","Shigeru","","","","Ichihara","","JP","",5
+3858318,"Masuyama","Kenya","","","","Chiba","","JP","",6
+3858318,"Aihara","Seitaro","","","","Tokyo","","JP","",7
+3858318,"Ito","Takao","","","","Tokyo","","JP","",8
+3858318,"Ogawa","Isamu","","","","Tokyo","","JP","",9
+3858318,"Harada","Mitsumasa","","","","Tokyo","","JP","",10
+3858319,"Stokes","John","J.","Jr.","","Murrysville","PA","US","",1
+3858319,"Benish","Charles","A.","","","Tarentum","PA","US","",2
+3858320,"Neal","James","","","1212 W. 19th Pl.","Gary","IN","US","46407",1
+3858320,"Duvall","Elbert","","","639 Allen St.","Gary","IN","US","46401",2
+3858321,"Conaty","Francis","Henry","","","Torrance","CA","US","",1
+3858322,"Padeh","Zwe","","","1285 52ND St.","Brooklyn","NY","US","11219",1
+3858323,"Flatland","Lloyd","P.","","15 Quisisana Dr.","Kentfield","CA","US","94904",1
+3858324,"Padowicz","Miron","","","Kohlfurter Str. 41-43","1 Berlin 36","","DE","",1
+3858325,"Goerler","Ronald","B.","","","Oyster Bay","NY","US","",1
+3858326,"Hurd","Leslie","A.","","1216 Columbus","Muskogee","OK","US","74401",1
+3858327,"Radev","Hristo","Kirilov","","","Sofia","","BG","",1
+3858327,"Chobanova","Emilia","Anguelova","","","Sofia","","BG","",2
+3858328,"La Rose","Russell","Louis","","6111 Arrowroot Ln.","Palos Verdes Peninsu","CA","US","90274",1
+3858329,"Koide","Tohru","","","","Yao","","JP","",1
+3858329,"Hattori","Takahiro","","","","Okazaki","","JP","",2
+3858329,"Ohno","Yoshio","","","","Sowamachi","","JP","",3
+3858329,"Maruya","Mitsuru","","","","Sowamachi","","JP","",4
+3858330,"De Pas","Laddie","A.","","","Louisville","KY","US","",1
+3858331,"Lord","John","G.","","","Swarthmore","PA","US","",1
+3858332,"Rasmussen","Peter","","","2406 McKinley","Berkeley","CA","US","94703",1
+3858333,"Kopp","Warner","","","Brookwood Dr.","Stanhope","NJ","US","07874",1
+3858334,"Eisenhauer","William","A.","","","Van Wert","OH","US","",1
+3858335,"Shore","Frank","","","305 W. 28th St.","New York","NY","US","10001",1
+3858336,"Brown","Ronald","E.","","10 N. Quaker Ln.","Alexandria","VA","US","",1
+3858337,"Vogel","Raimund","Walther","","Lierstr. 25","Munich 19","","DE","",1
+3858338,"Queiroz","Hugo","Soares","","","Sao Paulo","","BR","",1
+3858339,"Short","Robert","J.","","156 E. 117th St.","Los Angeles","CA","US","90061",1
+3858340,"Melanson","Walter","E.","","33 Boynton St.","Boston","MA","US","02130",1
+3858341,"Wakabayashi","Yasuo","","","C/O No. F-191, Kamakura-Zushi,","Zushi-shi, Kanagawa-","","JP","",1
+3858342,"Langsford","Arthur","William","","306 Morish St.","Broken Hill, N.S.W.","","AU","",1
+3858343,"Goforth","David","L.","","613 Kemp Rd. West","Greensboro","NC","US","",1
+3858344,"Watts","Peter","J.","","Baldhu House, 38 Polkyth Rd.","St. Austell","","GB","",1
+3858345,"Ziegler","Raymond","J.","","16185 W. 14th Pl.","Golden","CO","US","80401",1
+3858346,"Bailey","Floyd","Leroy","","","Jackson","MS","US","",1
+3858347,"Horn","John","Gerhard","","","Taby","","SE","",1
+3858347,"Melin","John","A.","","","Malmo","","SE","",2
+3858348,"Brown","Paul","L.","","982 Lakeview Way","Redwood City","CA","US","94062",1
+3858349,"McClendon","William","Duane","","5063 Mt. Royal Dr.","Los Angeles","CA","US","90041",1
+3858350,"Lux","William","","","8510 Wilksboro Ln.","Potomac","MD","US","20854",1
+3858351,"Porter","Irwin","C.","","","Quinter","KS","US","",1
+3858352,"Cummings","Charles","A.","","","Cincinnati","OH","US","",1
+3858352,"Giordano","George","P.","","","Cincinnati","OH","US","",2
+3858353,"Glass","Marvin","I.","","","Chicago","IL","US","",1
+3858353,"Terzian","Rouben","","","","Chicago","IL","US","",2
+3858354,"Soulard","Patrick","Marie","","","Talence","","FR","",1
+3858355,"Root","James","R.","","","Independence","MO","US","",1
+3858356,"Gross","Reinhold","W.","","","Milwaukee","WI","US","",1
+3858357,"McGuire","Winston","B.","","","Plattsburgh","NY","US","",1
+3858358,"Stachowiak","John","E.","","","Houston","TX","US","",1
+3858358,"Goss","John","B.","","","Houston","TX","US","",2
+3858359,"Leliaert","Raymond","M.","","","South Bend","IN","US","",1
+3858360,"Piet","Meyer","","","","Arcadia","CA","US","",1
+3858361,"Behne","Stephen","G.","","","Janesville","WI","US","",1
+3858362,"Welsch","Walter","N.","","","Tonawanda","NY","US","",1
+3858363,"Noll","Burton","A.","","","Painted Post","NY","US","",1
+3858363,"Torrico","Jorge","L.","","","Lindley","NY","US","",2
+3858364,"Proulx","Leo","R.","","66 Cypress St.","Manchester","NH","US","",1
+3858365,"Fernandez","Cesar","Alvarez","","","Madrid","","ES","",1
+3858366,"Tashker","Ilia","Lvovich","","ULITSA Kalinina, 2, kv. 8","Ufa","","SU","",1
+3858367,"Whitsett","Jack","W.","","936 Castile Ave.","Coral Gables","FL","US","33134",1
+3858368,"Cocherell","Francis","E.","","470 W. Badillo Ave.","Covina","CA","US","",1
+3858368,"Frinchaboy","Warren","F.","","3981 Garfield","Carlsbad","CA","US","",2
+3858369,"Dolgov","Valentin","Mikhailov","","ULITSA Ljublinskaya, 23, kv. 2","Moscow","","SU","",1
+3858369,"Saveliev","Vyacheslav","Vasilievi","","Anadyrsky proezd, 67, kv. 48","Moscow","","SU","",2
+3858369,"Krylov","Vladimir","Konstanti","","Yaroslavskoe shosse, 131, kv.","Moscow","","SU","",3
+3858369,"Tomashevsky","Valentin","Mitrofano","","3 Mytischinskaya ulitsa, 14a,","Moscow","","SU","",4
+3858369,"Zolotarev","Evgeny","Ivanovich","","ULITSA Kibalachicha, 15, kv. 1","Moscow","","SU","",5
+3858370,"Halstead","Richard","J.","","","Chesapeake","VA","US","",1
+3858371,"Averill","Robert","L.","","","Seattle","WA","US","",1
+3858372,"Wilson","Pryce","","","370 Drouin Dr.","Rio Vista","CA","US","94571",1
+3858373,"Day","Donald","L.","","","Guysville","OH","US","",1
+3858373,"Halstead","Charles","H.","","","Parkersburg","WV","US","",2
+3858373,"Huck","Neil","F.","","","Lowell","OH","US","",3
+3858374,"Ben-Zvi","Emanuel","","","","San Jose","CA","US","",1
+3858375,"Silvernail","Joe","K.","","19-22nd St. South","St. Petersburg","FL","US","",1
+3858376,"Moore","Alvin","Edward","","Manini Way, Diamondhead","Bay St. Louis","MS","US","39520",1
+3858377,"Browne","Warren","G.","","","Philadelphia","PA","US","",1
+3858377,"Baurose","Erik","","","","Pine Grove","PA","US","",2
+3858378,"Allen","Richard","E.","","","Corning","NY","US","",1
+3858378,"Frazier","John","F.","","","Painted Post","NY","US","",2
+3858378,"Smith","William","C.","","","Corning","NY","US","",3
+3858379,"Graves","David","J.","","","Ridley Park","PA","US","",1
+3858379,"Ritchey","Charles","R.","","","Fort Sam Houston","TX","US","",2
+3858380,"Schmechel","Werner","","","","Berlin","","DE","",1
+3858381,"Huber","Charles","L.","","","Marion","NY","US","",1
+3858381,"Stickney","Thomas","L.","","","Ogdensburg","NY","US","",2
+3858382,"Suominen","Yrjo","","","Amerplast, Tampere","Vehmainen","","FI","",1
+3858383,"Glover","Richard","W.","","","Joppa","MD","US","",1
+3858384,"Maiste","Arved","","","","Brantford, Ontario","","CA","",1
+3858384,"Seton","Walter","F.","","","Galt, Ontario","","CA","",2
+3858385,"Shinkai","Kunio","","","","Handa","","JP","",1
+3858385,"Yamada","Hazuo","","","","Inazawa","","JP","",2
+3858385,"Sakaki","Kenji","","","","Nishikasugai","","JP","",3
+3858385,"Yasuda","Hironori","","","","Inazawa","","JP","",4
+3858386,"Stofan","Richard","H.","","","Shelby","NC","US","",1
+3858387,"Baliga","Janardhana","B.","","","Newark","DE","US","",1
+3858387,"Dainton","Robert","L.","","","Boothwyn","PA","US","",2
+3858388,"Fujimori","Yoshiaki","","","","Suwa","","JP","",1
+3858388,"Miyashita","Kanji","","","","Suwa","","JP","",2
+3858389,"Isuruishi","Yuki","","","","Suwa","","JP","",1
+3858390,"Jansen","Harvey","B.","","","Tempe","AZ","US","",1
+3858390,"Adams","Milton","R.,","","","Tempe","AZ","US","",2
+3858391,"Davis","James","L.","","","Kokomo","MI","US","",1
+3858391,"Lopke","Edward","L.","","","Kokomo","MI","US","",2
+3858391,"Huellmantel","Louis","W.","","","Warren","MI","US","",3
+3858392,"Evans","John","H.","","","Lansdale","PA","US","",1
+3858392,"McEwen","Frederick","R.","","","Lansdale","PA","US","",2
+3858393,"Budzich","Tadeusz","","","80 Murwood Dr.","Moreland Hills","OH","US","44022",1
+3858394,"Anderson","Ernest","W.","","5256 Mississippi Bar Dr.","Orangevale","CA","US","95662",1
+3858395,"Davoud","John","Gordon","","","Richmond","VA","US","",1
+3858395,"Burke","Jerry","A.","Jr.","","Richmond","VA","US","",2
+3858396,"Bourges","Bernard","","","","Le Plessis-Belle-Vil","","FR","",1
+3858397,"Jacoby","Charles","H.","","","Dalton","PA","US","",1
+3858398,"Van Weele","Abraham","Francois","","","Waddinxveen","","NL","",1
+3858399,"Krings","Josef","","","Hans-Bockler-Str. 23","D 5138 Oberbruch","","DE","",1
+3858400,"Bernold","Jean","","","Hasenberg","Walenstadt","","CH","",1
+3858401,"Watkins","Bruce","J.","","","Palos Verdes Pen.","CA","US","",1
+3858402,"Baker","Rowland","","","","Somerset","","GB","",1
+3858402,"Norton","Gordon","","","","Epping","","GB","",2
+3858403,"Dunn","Myron","","","","Littleton","CO","US","",1
+3858404,"Davis","Robert","Bruce","","","Nyack","NY","US","",1
+3858405,"Manzke","Walter","R.","","13601 Jackrabbit Rd.","Poway","CA","US","92064",1
+3858406,"Izumi","Masao","","","","Tokyo","","JP","",1
+3858407,"Schumacher","Ernest","W.","","","Portsmouth","VA","US","",1
+3858408,"Kenyon","Andre","J.","","","Rosemount","MN","US","",1
+3858409,"Besing","Wayne","L.","","","Evansville","IN","US","",1
+3858410,"Drake","Daniel","H.","","1969 Carolina Ave., N.E.","St. Petersburg","FL","US","33703",1
+3858411,"Hiersig","Heinz","M.","","","Dusseldorf-Oberkasse","","DE","",1
+3858411,"Hansgen","Klaus","","","","Witten","","DE","",2
+3858411,"Sudhoff","Wolfgang","","","","Dortmund-Mengede","","DE","",3
+3858412,"Fisher","Leslie","George","","","Birmingham","","GB","",1
+3858412,"Jones","Michael","David","","","Birmingham","","GB","",2
+3858413,"Nemtsov","Jury","Mitrofano","","Trekhprudny pereulok, 5/15, kv","Moscow","","SU","",1
+3858413,"Klimov","Alexandr","Galikovic","","Ryazansky prospekt, 91, korpus","Moscow","","SU","",2
+3858413,"Grishin","Ivan","Ignatievi","","Volzhsky bulvar, 12, korpus 2,","Moscow","","SU","",3
+3858415,"Wilson","M.","Van","","","Barboursville","VA","US","",1
